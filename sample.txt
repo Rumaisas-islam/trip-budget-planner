@@ -1,0 +1,14 @@
+--------------------
+Place_name: Hunza Valley
+Total budget: 80000
+Total people: 4
+Food: included
+Location: North Pakistan
+--------------------
+--------------------
+Place_name: Murree Hills
+Total budget: 40000
+Total people: 2
+Food: not included
+Location: Punjab
+--------------------
