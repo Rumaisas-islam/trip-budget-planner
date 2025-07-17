@@ -34,7 +34,7 @@ A simple Python command-line tool to help you plan your trips by calculating tot
 
 ```
 
-trip-budget-planner/
+trip-planner/
 │
 ├── .gitignore
 ├── LICENSE
