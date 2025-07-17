@@ -1,3 +1,5 @@
+![Trip Budget Planner](./banner.png)
+
 # Trip Budget Planner 🧳💰
 
 A simple Python command-line tool to help you plan your trips by calculating total budget, individual cost, and saving trip data.
